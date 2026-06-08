@@ -1,6 +1,6 @@
 # Nodejs User Management Express EJS MongoDB
 
-## Udates
+## Updates
 
 
 ## You need:
