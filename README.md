@@ -35,15 +35,23 @@ This project demonstrates core backend development concepts such as CRUD operati
 ```bash
 git clone https://github.com/your-username/user-management-system.git
 
+---
+
 2. Move into project folder
 cd user-management-system
+
+---
 
 3. Install dependencies
 npm install
 
+---
+
 4. Create .env file
 MONGO_URI=your_mongodb_atlas_connection_string
 PORT=5000
+
+---
 
 5. Run the project
 
@@ -53,6 +61,8 @@ npm run dev
 
 Production mode:
 npm start
+
+---
 
 🧠 What I Learned
 -Building REST APIs using Express.js
