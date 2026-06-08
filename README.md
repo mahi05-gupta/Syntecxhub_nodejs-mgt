@@ -29,7 +29,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ---
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 
 1. Clone the repository
 ```bash
