@@ -31,7 +31,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/your-username/user-management-system.git
 
