@@ -64,6 +64,10 @@ npm start
 
 ---
 
+## Screenshots
+<img width="1874" height="991" alt="Screenshot 2026-06-09 210652" src="https://github.com/user-attachments/assets/5dbd8ddd-95f4-4147-bb49-7fa808380214" />
+
+
 🧠 What I Learned
 -Building REST APIs using Express.js
 -MongoDB CRUD operations
